@@ -1,4 +1,4 @@
-# Install Kubernetes with Docker on AWS
+# Install Kubernetes using Docker as the container runtime.
 
 # Overview
 This lab walks through using `kubeadm` to install Kubernetes with Docker as the container runtime.
