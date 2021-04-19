@@ -12,8 +12,8 @@ Instructor will provide lab VM sheet.
 ## Labs
 
 ### Day 1
-Lab 1: [Install Kubernetes with Docker](/labs/install-k8s-docker/)  
-Lab 2: [Migrate Kubernetes cluster to containerd](/labs/migrate-k8s-to-containerd/)  
+Lab 1: [Install Kubernetes with Docker](https://jruels.github.io/migrate-to-containerd/labs/install-k8s-docker/)  
+Lab 2: [Migrate Kubernetes cluster to containerd](https://jruels.github.io/migrate-to-containerd/labs/migrate-k8s-to-containerd/)  
 Lab 3: [Using crictl and ctr](labs/crictl-and-ctr/)  
 Lab 4: [Building images without Docker](labs/building-images-without-docker/)  
 
